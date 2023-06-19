@@ -3,15 +3,13 @@
 ** SAKARYA ÜNİVERSİTESİ
 ** BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
 ** BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-** PROGRAMLAMAYA GİRİŞİ DERSİ
+**
 **
 ** ÖDEV NUMARASI…...:  Soru 3
 ** ÖĞRENCİ ADI...............:  Sümeyye Karataş
 ** ÖĞRENCİ NUMARASI.:  B221210005
 ** DERS GRUBU…………:    1. Öğretim A Grubu
-YOUTUBE LİNKİ… …:  Soru-3  : https://youtu.be/ymmWe90tM8A  
-                   Soru 1-2 : https://youtu.be/-O4EFmg2cCs
-                   
+
 ****************************************************************************/
 
 namespace Soru3_Form_Sümeyye_Karataş
